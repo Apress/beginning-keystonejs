@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Beginning KeystoneJS*](http://www.apress.com/9781484225462) by Panati, Manikanta (Apress, 2016).
+This repository accompanies [*Beginning KeystoneJS*](http://www.apress.com/9781484225462) by Manikanta Panati (Apress, 2016).
 
 ![Cover image](9781484225462.jpg)
 
